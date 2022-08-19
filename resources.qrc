@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>pictures/StartWindow.png</file>
+        <file>pictures/MnplyMap.png</file>
+        <file>pictures/cube_1.png</file>
+        <file>pictures/cube_2.png</file>
+        <file>pictures/cube_4.png</file>
+        <file>pictures/cube_5.png</file>
+        <file>pictures/cube_6.png</file>
+        <file>pictures/cube_3.png</file>
+        <file>pictures/Mnply_Icon.jpg</file>
+        <file>pictures/Hotel.png</file>
+        <file>pictures/House_1.png</file>
+        <file>pictures/House_2.png</file>
+        <file>pictures/House_3.png</file>
+        <file>pictures/House_4.png</file>
+        <file>pictures/MnplyMapReworked.png</file>
+    </qresource>
+</RCC>
